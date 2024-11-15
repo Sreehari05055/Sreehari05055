@@ -13,7 +13,7 @@ Hi there! I'm Sreehari Anukumar, passionate about Computer Science and currently
 - 💬 Ask me about:
 - My experience with C# programming, Raspberry Pi projects, or developing a chatbot using Flask and OpenAI API.
 - 📫 How to reach me:
-- Email: sreekuttankzm@gmail.com | LinkedIn: www.linkedin.com/in/sreehari-anukumar 
+- Email: akc.sreehari@gmail.com | LinkedIn: www.linkedin.com/in/sreehari-anukumar 
 - 😄 Pronouns:
 - He/Him
 - 
