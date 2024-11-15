@@ -1,6 +1,10 @@
-## Hi there 👋
+Welcome to My GitHub! 👋
+Hi there! I'm Sreehari Anukumar, a passionate Computer Science student pursuing an integrated Master’s degree. I love solving challenges through technology, exploring new tools, and working on innovative projects.
 
-<!--
+🌐 My Portfolio : sreeharia.pythonanywhere.com
+📧 Email: akc.sreehari@gmail.com
+💼 LinkedIn: www.linkedin.com/in/sreehari-anukumar
+
 **Sreehari05055/Sreehari05055** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
