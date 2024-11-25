@@ -11,7 +11,7 @@ Hi there! I'm Sreehari Anukumar, passionate about Computer Science and currently
 - 🤔 I’m looking for help with:
 - Learning more about cloud deployments.
 - 💬 Ask me about:
-- My experience with C# programming, Raspberry Pi projects, or developing a chatbot using Flask and OpenAI API.
+- My experience with C# programming, Raspberry Pi projects, or developing a chatbot using Flask(or Django) and OpenAI API.
 - 📫 How to reach me:
 - Email: akc.sreehari@gmail.com | LinkedIn: www.linkedin.com/in/sreehari-anukumar 
 - 😄 Pronouns:
