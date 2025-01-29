@@ -26,8 +26,9 @@ Hi there! I'm Sreehari Anukumar, passionate about Computer Science and currently
 😄 Pronouns:
 - He/Him
 
+📫 How to reach me:
+- Email: akc.sreehari@gmail.com | LinkedIn: www.linkedin.com/in/sreehari-anukumar
+
 🌐 My Portfolio:
 - [Check out my portfolio!](https://sreeharia.pythonanywhere.com/)
 
-📫 How to reach me:
-- Email: akc.sreehari@gmail.com | LinkedIn: www.linkedin.com/in/sreehari-anukumar
