@@ -19,10 +19,7 @@ Hi there! I'm Sreehari Anukumar, passionate about Computer Science and currently
 
 👯 I’m looking to collaborate on:
 - Exciting web development projects that allow me to learn new technologies.
-
-💬 Ask me about:
-- My experience with C# programming, Raspberry Pi projects, or developing a chatbot using Flask(or Django) and OpenAI API.
-
+- 
 😄 Pronouns:
 - He/Him
 
