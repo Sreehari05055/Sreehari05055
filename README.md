@@ -1,5 +1,5 @@
 # 💫 About Me:
- I'm a second-year LBU undergraduate, passionate about technology and an avid reader. I’m passionate about creating impactful projects that solve real-world challenges.
+ An LBU undergrad, an avid reader. For me, it's all about creating change and leaving an impact.
 
 
 ## 🌐 Socials:
